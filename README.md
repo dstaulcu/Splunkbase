@@ -1,6 +1,6 @@
 Synopsis:
 -----------------------------------
-Python script to maintain local copy of Splunkbase application catalog.
+[Python script](https://github.com/dstaulcu/Splunkbase/blob/main/get-splunkapps-ext.py) to maintain [local copy](https://github.com/dstaulcu/Splunkbase/blob/main/splunkbase_catalog.csv) of Splunkbase application catalog.
 
 ![alt tag](https://github.com/dstaulcu/Splunkbase/blob/master/demo.gif)
 
